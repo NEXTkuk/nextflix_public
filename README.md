@@ -17,4 +17,4 @@
 - **Oauth2**
 - **CI/CD**
 
-<img src="./assets/preview.png">
+<img src="./assets/1.png">
